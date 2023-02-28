@@ -10,7 +10,9 @@ set -e
 
 # 0. Tell me who worked on this together
 echo "Norbert Monti"   # please fill in names here
-echo "student 2"
+echo "Justine Nayral"
+echo "Yuxuan Xu"
+
 
 # 1. Go to your home directory: 
 # (enter your command below)
